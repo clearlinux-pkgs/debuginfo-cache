@@ -1,6 +1,6 @@
 Name     : debuginfo-cache
 Version  : 1
-Release  : 1
+Release  : 2
 Source10 : https://download.clearlinux.org/releases/27110/clear/x86_64/debug/glibc-debuginfo-2.28-230.x86_64.rpm
 Source20 : https://download.clearlinux.org/releases/27110/clear/x86_64/debug/xz-debuginfo-5.2.4-51.x86_64.rpm
 Summary  : Prepopulated debuginfo lookaside cache
